@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Cpp: [List of cpp libraraies](https://en.cppreference.com/w/cpp/links/libs)
+Rust: [List of cpp libraraies]()
 <!--
 
 **Here are some ideas to get you started:**
